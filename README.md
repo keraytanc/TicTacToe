@@ -5,5 +5,5 @@ The projects aim was to train creating desktop applications using JavaFX. All th
 Java Programming II course. Written in a NetBeans. 
 
   <p align="center">
-    <img src="https://i.imgur.com/0HImcJc.gif" />
+    <img src="https://i.imgur.com/uJmwWiB.gif" />
   </p>
